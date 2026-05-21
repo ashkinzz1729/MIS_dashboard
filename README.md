@@ -1,4 +1,4 @@
-# Project 1: Construction Project MIS Dashboard
+# Construction Project MIS Dashboard
 
 ## Business Problem
 A large EPC contractor managing multiple infrastructure projects (hospitals, highways,
