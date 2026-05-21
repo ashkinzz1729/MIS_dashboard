@@ -80,5 +80,5 @@ FROM projects p JOIN latest_progress lp ON p.project_id = lp.project_id;
 - pgAdmin 4 / DBeaver
 
 ## Author
-Giridhar Namballa | Civil Engineer (9+ yrs EPC) → Data Analyst
+Giridhar Namballa | Civil Engineer → Data Analyst
 [LinkedIn](https://linkedin.com/in/giridharnamballa-a9333a7a) | [GitHub](https://github.com/ashkinzz1729)
